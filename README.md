@@ -5,6 +5,9 @@
 ### ✍️ **Autores:**
 - 👨‍💻 **Javier Ricardo Muñoz**
 - 👩‍💻 **Yasmin Johanna Garcia**
+- 👩‍💻 **Albin Ruvera**
+- 👩‍💻 **Yesid Casteblanco**
+
 
 ---
 
